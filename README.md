@@ -1,6 +1,8 @@
 # Calendar-App
 This GUI app has been made using Tkinter module of python. Calendar app also uses Pillow and Calendar module of python. Hope you like it :)
 # Requirements
+1) Python 3.x
+## Modules
 1) Pillow Module
 2) Tkinter Module
 3) Calendar Module
